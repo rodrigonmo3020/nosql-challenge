@@ -1,3 +1,3 @@
 # nosql-challenge
-Repository for challenge 12 files
-This is a new repository to submit the challenge 12 files for grading
+Repository for challenge 12.
+This is a new repository to submit the challenge files for grading
